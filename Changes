@@ -1,5 +1,10 @@
 Revision history for Perl extension Acme::Lingua::Strine::Perl.
 
+
+0.54  Fri Feb 07 10:30:16 2003
+	- Damian's name has been spelt wrong all this time :(
+
+
 0.52  Tue Oct 30 14:25:08 2001
        - whoops, no prerequisites
 

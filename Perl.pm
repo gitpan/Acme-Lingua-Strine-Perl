@@ -9,7 +9,7 @@ use AutoLoader qw(AUTOLOAD);
 
 our @ISA = qw(Exporter);
 
-our $VERSION = '0.53';
+our $VERSION = '0.54';
 
 use Filter::Simple sub 
 {
@@ -42,7 +42,7 @@ __END__
 
 =head1 NAME
 
-Acme::Lingua::Strine::Perl - make Perl more like Damien
+Acme::Lingua::Strine::Perl - make Perl more like Damian
 
 =head1 SYNOPSIS
 
@@ -86,7 +86,7 @@ Acme::Lingua::Strine::Perl - make Perl more like Damien
 =head1 DESCRIPTION
 
 
-Inspired by Ron Kimballs's skit on Damien at the 
+Inspired by Ron Kimballs's skit on Damian at the 
 p5p impressions BOF at TPC5 
 
 

@@ -49,7 +49,7 @@ print "ok 1\n";
 # of the test code):
 
 
-my @arr = qw (data munging with damien);
+my @arr = qw (data munging with damian);
 
 if (cadge @arr eq 'data')
 {
