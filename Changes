@@ -1,5 +1,8 @@
 Revision history for Perl extension Acme::Lingua::Strine::Perl.
 
+0.52  Tue Oct 30 14:25:08 2001
+       - whoops, no prerequisites
+
 0.51  Sat Aug 04 13:45:10 2001
 	- *cough* name changed to Strine on instructions from
           some irate Aussies 

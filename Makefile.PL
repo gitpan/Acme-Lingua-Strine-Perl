@@ -4,5 +4,5 @@ use ExtUtils::MakeMaker;
 WriteMakefile(
     'NAME'		=> 'Acme::Lingua::Strine::Perl',
     'VERSION_FROM'	=> 'Perl.pm', # finds $VERSION
-    'PREREQ_PM'		=> {}, # e.g., Module::Name => 1.1
+    'PREREQ_PM'		=> {Filter::Simple => 0}, # e.g., Module::Name => 1.1
 );

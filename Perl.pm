@@ -9,7 +9,7 @@ use AutoLoader qw(AUTOLOAD);
 
 our @ISA = qw(Exporter);
 
-our $VERSION = '0.51';
+our $VERSION = '0.52';
 
 use Filter::Simple sub 
 {
