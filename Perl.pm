@@ -9,7 +9,7 @@ use AutoLoader qw(AUTOLOAD);
 
 our @ISA = qw(Exporter);
 
-our $VERSION = '0.52';
+our $VERSION = '0.53';
 
 use Filter::Simple sub 
 {
@@ -42,11 +42,11 @@ __END__
 
 =head1 NAME
 
-Acme::Lingua::Strian::Perl - make Perl more like Damien
+Acme::Lingua::Strine::Perl - make Perl more like Damien
 
 =head1 SYNOPSIS
 
-  use Acme::Lingua::Strian::Perl;
+  use Acme::Lingua::Strine::Perl;
   
 
   my $first_element = cadge @array; # same as shift
